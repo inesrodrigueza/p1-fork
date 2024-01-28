@@ -1,7 +1,13 @@
 Comandos utilizados:
+
 - git clone: se utiliza para descargar el código de un repositorio remoto Git existente a una nueva ubicación. Resulta útil para obtener una copia de un repositorio en tu máquina local para colaborar en el código, realizar modificaciones o simplemente explorar el código.
+
 - git status: se utiliza para obtener toda la información necesaria del estado actual de un directorio de trabajo en relación con el repositorio Git.
+
 - git add: se utiliza para agregar los cambios realizados en tu siguiente commit. Cuando trabajas en un proyecto de Git y haces cambios en tus archivos, es necesario agregar estos cambios al área de preparación con este comando antes de confirmarlos con un commit.
+
 - git commit: se utiliza para confirmar los cambios que has agregado al área de preparación. Una vez realizado este comando, los cambios realizados se quedan guardados en el repositorio.
+
 - git push: se utiliza para enviar los cambios guardados con commit al servidor remoto de Git. Una vez hecho esto, ya se pueden visualizar los cambios en github.
+
 - git checkout: se utiliza para cambiar a otra rama. También se puede utilizar para crear una rama nueva y cambiar a esta directamente (con la opción git checkout -b).
