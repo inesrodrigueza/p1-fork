@@ -1,6 +1,6 @@
 Comandos utilizados:
 
-- git clone: se utiliza para descargar el código de un repositorio remoto Git existente a una nueva ubicación. Resulta útil para obtener una copia de un repositorio en tu máquina local para colaborar en el código, realizar modificaciones o simplemente explorar el código.
+- git clone: se utiliza para descargar el código de un repositorio remoto Git existente a una nueva ubicación. Resulta útil para obtener una copia de un repositorio remoto en tu máquina local.
 
 - git status: se utiliza para obtener toda la información necesaria del estado actual de un directorio de trabajo en relación con el repositorio Git.
 
